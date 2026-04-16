@@ -7,4 +7,4 @@ This is my first Python project
 3. Try to guess the secret number before tou run out of attempts
 
 ### Project URL:
-[https://github.com/Mustardinho/Guess-the-number-game/tree/main](https://roadmap.sh/projects/number-guessing-game)
+https://roadmap.sh/projects/number-guessing-game
